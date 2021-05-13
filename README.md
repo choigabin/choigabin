@@ -1,9 +1,11 @@
 # Welcome my Github
 
-#### __Hi there, I'm gabin 🤞🏻__
+#### __Hi there, I'm gabin! 🏻👋🏻__
 
 
-📚 #####Study ; Django, php, Node js
+
+
+📚 Study ; Django, php, Node js
 
 
 🌱 Dream ; Full Stack Developer
