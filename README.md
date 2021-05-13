@@ -3,7 +3,7 @@
 #### Hi there, I'm gabin 🤞🏻
 
 
-📚 Study ; Django, php, Node js
+######📚 Study ; Django, php, Node js
 
 
 🌱 Dream ; Full Stack Developer
