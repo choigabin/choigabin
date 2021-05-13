@@ -1,9 +1,7 @@
 # Welcome my Github
 
 #### __Hi there, I'm gabin! 👋🏻__
-
-
-
+I'm studying development with the dream of becoming a full stack developer.
 
 - 📚 Study ; Django, php, Node js
 - 🌱 Dream ; Full Stack Developer
