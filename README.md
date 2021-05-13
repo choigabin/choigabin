@@ -1,17 +1,13 @@
 # Welcome my Github
 
-#### __Hi there, I'm gabin! 🏻👋🏻__
+#### __Hi there, I'm gabin! 👋🏻__
 
 
 
 
-📚 Study ; Django, php, Node js
-
-
-🌱 Dream ; Full Stack Developer
-
-
-✨ Goal  ; Commit once a day
+*📚 Study ; Django, php, Node js
+*🌱 Dream ; Full Stack Developer
+*✨ Goal  ; Commit once a day
 
 
 I'm studying development with the dream of becoming a full stack developer. I'm studying not only the front development and the back development, but also the design together.
