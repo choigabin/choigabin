@@ -1,7 +1,7 @@
 #### __Hi there, I'm gabin! 👋🏻__
 I'm studying development with the dream of becoming a full stack developer.
 
-- 📚 Study ; Django, php, Vue.js
+- 📚 Study ; php, React, Spring boot 
 - 🌱 Dream ; Full Stack Developer
 - ✨ Goal  ; Commit once a day
 
